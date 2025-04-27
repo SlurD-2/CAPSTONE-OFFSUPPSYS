@@ -1,0 +1,24 @@
+TO DO'S:
+
+Admin:
+
+1. Approve, Edit and Delete Button function. if the admin Approve the status of the user change to approve
+2. Edit and Delete button function
+3. Stock Management:
+                  1. Monthly Supplies
+                  2. Stock levels
+4.  logic if the user request a supply then the admin approved 
+    the stock of supply that the user requested will be deducted base on the quantity the user requested      
+5. Time of request  
+6. Transactions - withdrawal and returns
+7. Sort
+8. Request Status - Replanning of status - progress status.          
+
+Users:
+
+
+1. Request status needs to be paginated
+2. Dashboard Content
+3. Feedback
+
+how to implement approval of three(chairman, dean and admin using the usertype to approve independently
